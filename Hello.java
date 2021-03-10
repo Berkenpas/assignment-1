@@ -5,5 +5,6 @@ public class hello{
 		System.out.println("Didn't do this as one push, mb");
 		System.out.println("B won't be able to push hehehe");
 		System.out.println("Time to overwrite B");
+		System.out.println("Rewrite mk.2");
 	} 
 }
