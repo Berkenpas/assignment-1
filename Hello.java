@@ -9,6 +9,10 @@ public class hello{
 	} 
 
 	public int returnThree(){
-		return 3;
+		// Comment about the fact that this doesn't do anything other than retur nthe number 3
+		int i = 3;
+		i = 3+0;
+		i = 6 /2;
+		return i;
 	}
 }
