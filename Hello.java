@@ -9,6 +9,14 @@ public class hello{
 	} 
 
 	public int returnThree(){
-		return 3;
+		int i = 9;
+
+		if(i==9){
+			return 3;
+		}
+		else{
+			return 3;
+		}
+
 	}
 }
