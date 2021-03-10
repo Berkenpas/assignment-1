@@ -7,4 +7,8 @@ public class hello{
 		System.out.println("Time to overwrite B");
 		System.out.println("Rewrite mk.2");
 	} 
+
+	public int returnThree(){
+		return 3;
+	}
 }
